@@ -1,0 +1,12 @@
+#solitaire_ad_block
+0.0.0.0 msmonplat.trafficmanager.net
+0.0.0.0 cdn.spotxcdn.com
+0.0.0.0 msmonplat.trafficmanager.net
+0.0.0.0 cdn.spotxcdn.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 fp.msedge.net
+0.0.0.0 cdn.adnxs.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 adbroker.mp.dse.microsoft.com
+0.0.0.0 api.taboola.com
+0.0.0.0 api.vungle.com
